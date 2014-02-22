@@ -1,0 +1,12 @@
+{
+    "name": "dpeuscher/dp-asynchron-job",
+    "description": "Library for starting asynchronous jobs in PHP",
+    "license": "GPL-2.0",
+    "require": {
+        "php": ">=5.4",
+        "zendframework/zendframework": "2.3.x-dev",
+        "predis/predis": "dev-master",
+        "chrisboulton/php-resque": ">=1.2",
+        "dpeuscher/dp-zf-extensions": "dev-master"
+    }
+}
